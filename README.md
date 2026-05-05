@@ -63,8 +63,7 @@ Contains:
 
 To provide a clear understanding of the distribution of healthcare facilities, I have generated an interactive GIS map. This map shows the optimal locations of hospitals (Red markers) and the assigned demographic groups (Blue markers) with connecting lines.
 
-<img width="524" height="348" alt="image" src="https://github.com/user-attachments/assets/a13a50a4-9842-472e-b812-437d0f51afe0" />
-
+<img width="540" height="401" alt="Stockholm_EH_Map_P=5" src="https://github.com/user-attachments/assets/751a44e9-3c9d-4b49-ba27-b0e100edffeb" />
 
 ### Findings:
 -  10.06% reduction in system-wide risk at optimal configuration
