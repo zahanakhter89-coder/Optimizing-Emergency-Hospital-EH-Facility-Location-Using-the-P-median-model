@@ -63,9 +63,8 @@ Contains:
 
 To provide a clear understanding of the distribution of healthcare facilities, I have generated an interactive GIS map. This map shows the optimal locations of hospitals (Red markers) and the assigned demographic groups (Blue markers) with connecting lines.
 
-**[Click here to view the Interactive Stockholm Map (P=5)](https://htmlpreview.github.io/?https://github.com/zahanakhter89-coder/Optimizing-Emergency-Hospital-EH-Facility-Location-Using-the-P-median-model/blob/main/Stockholm_EH_Map_P5.html)**
+<img width="524" height="348" alt="image" src="https://github.com/user-attachments/assets/a13a50a4-9842-472e-b812-437d0f51afe0" />
 
-*Note: The map will open in a new tab via HTML Previewer.*
 
 ### Findings:
 -  10.06% reduction in system-wide risk at optimal configuration
