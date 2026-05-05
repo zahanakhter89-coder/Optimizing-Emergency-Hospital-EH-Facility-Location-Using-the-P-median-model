@@ -40,7 +40,7 @@ The objective is to minimize:
 - Mixed Integer Programming (MIP)
 - Implemented using **Gurobi Optimizer**
 
-## 📊 Data
+## Data
 
 All datasets are manually constructed based on aggregated demographic patterns inspired by Statistics Sweden (SCB).
 
