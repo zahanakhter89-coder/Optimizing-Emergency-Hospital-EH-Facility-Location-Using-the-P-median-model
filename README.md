@@ -58,6 +58,14 @@ Contains:
 
 - Tested on 10 Stockholm zip-code regions and 8 hospital candidates
 - Optimal facility configuration: **p = 4**
+- 
+## Interactive Results & Visualization
+
+To provide a clear understanding of the distribution of healthcare facilities, I have generated an interactive GIS map. This map shows the optimal locations of hospitals (Red markers) and the assigned demographic groups (Blue markers) with connecting lines.
+
+**[Click here to view the Interactive Stockholm Map (P=5)](https://htmlpreview.github.io/?https://github.com/zahanakhter89-coder/Optimizing-Emergency-Hospital-EH-Facility-Location-Using-the-P-median-model/blob/main/Stockholm_EH_Map_P5.html)**
+
+*Note: The map will open in a new tab via HTML Previewer.*
 
 ### Findings:
 -  10.06% reduction in system-wide risk at optimal configuration
